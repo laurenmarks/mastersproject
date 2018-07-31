@@ -15,4 +15,4 @@ novoalign -c ${ncores} -o SAM "@RG\tID:${code}\tSM:${code}\tLB:${code}\tPL:BGI" 
 samtools view -Sb ${code}_disc.sam | novosort - -t . -c ${ncores} -m ${memory2}G -i -o ${code}_disc_sorted.bam
 
 # Sorts the WGS bam
-novosort -t . -c ${ncores} -m ${memory2}G -i -o ${code}_sorted_unique.bam ${code}.bam
+novosort -t . -c ${ncores} -m ${memory2}G -i -o ${code}_sorted_unique.bam ${code}.bam 
