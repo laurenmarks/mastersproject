@@ -1,0 +1,27 @@
+"Sample_Name","Sample_Plate","Sample_Group","Pool_ID","Project","Sample_Well","Tissue","PGP_ID","Age","Gender","Smoking_status","Array_type","Array","Slide","Basename","sampleQC","smoking_scores_combined"
+"uk85AA3B_saliva","Webster",1,NA,"PGP_UK","A01","Saliva","uk85AA3B",50.59,"Female","Never","Illumina_450","R01C01","101130760049","rawdata/101130760049_R01C01","passedQC",-1.83975738852942
+"uk481F67_blood","Webster",2,NA,"PGP_UK","B01","Blood","uk481F67",57.45,"Male","Past","Illumina_450","R02C01","101130760049","rawdata/101130760049_R02C01","passedQC",1.25724007156845
+"uk35C650_saliva","Webster",1,NA,"PGP_UK","C01","Saliva","uk35C650",59.67,"Male","Past","Illumina_450","R03C01","101130760049","rawdata/101130760049_R03C01","passedQC",1.54594612716571
+"uk174659_saliva","Webster",1,NA,"PGP_UK","E01","Saliva","uk174659",33.65,"Male","Never","Illumina_450","R05C01","101130760049","rawdata/101130760049_R05C01","passedQC",0.251296008609519
+"uk0C72FF_blood","Webster",2,NA,"PGP_UK","F01","Blood","uk0C72FF",64.7,"Male","Past","Illumina_450","R06C01","101130760049","rawdata/101130760049_R06C01","passedQC",-2.40127476847584
+"uk85AA3B_blood","Webster",2,NA,"PGP_UK","H01","Blood","uk85AA3B",50.59,"Female","Never","Illumina_450","R02C02","101130760049","rawdata/101130760049_R02C02","passedQC",-4.68363628431783
+"uk2DF242_saliva","Webster",1,NA,"PGP_UK","A02","Saliva","uk2DF242",48.93,"Male","Never","Illumina_450","R03C02","101130760049","rawdata/101130760049_R03C02","passedQC",-3.20593930505339
+"uk33D02F_saliva","Webster",1,NA,"PGP_UK","B02","Saliva","uk33D02F",44.57,"Female","Never","Illumina_450","R04C02","101130760049","rawdata/101130760049_R04C02","passedQC",-1.77851465468134
+"uk33D02F_blood","Webster",2,NA,"PGP_UK","C02","Blood","uk33D02F",44.57,"Female","Never","Illumina_450","R05C02","101130760049","rawdata/101130760049_R05C02","passedQC",-2.70370247069432
+"uk2DF242_blood","Webster",2,NA,"PGP_UK","D02","Blood","uk2DF242",48.93,"Male","Never","Illumina_450","R06C02","101130760049","rawdata/101130760049_R06C02","passedQC",-5.62507577720842
+"uk0C72FF_saliva","Webster",1,NA,"PGP_UK","E02","Saliva","uk0C72FF",64.7,"Male","Past","Illumina_450","R01C01","101130760050","rawdata/101130760050_R01C01","passedQC",0.667640927243958
+"uk1097F9_blood","Webster",2,NA,"PGP_UK","F02","Blood","uk1097F9",50.97,"Male","Never","Illumina_450","R02C01","101130760050","rawdata/101130760050_R02C01","passedQC",-2.07892533156073
+"uk2E2AAE_saliva","Webster",1,NA,"PGP_UK","G02","Saliva","uk2E2AAE",56.49,"Female","Never","Illumina_450","R03C01","101130760050","rawdata/101130760050_R03C01","passedQC",1.3218209676334
+"uk174659_blood","Webster",2,NA,"PGP_UK","A03","Blood","uk174659",33.65,"Male","Never","Illumina_450","R05C01","101130760050","rawdata/101130760050_R05C01","passedQC",-3.53463812706445
+"uk740176_saliva","Webster",1,NA,"PGP_UK","B03","Saliva","uk740176",47.94,"Female","Never","Illumina_450","R06C01","101130760050","rawdata/101130760050_R06C01","passedQC",-3.28057025745429
+"uk1097F9_saliva","Webster",1,NA,"PGP_UK","C03","Saliva","uk1097F9",50.97,"Male","Never","Illumina_450","R01C02","101130760050","rawdata/101130760050_R01C02","passedQC",3.35116837729766
+"uk481F67_saliva","Webster",1,NA,"PGP_UK","D03","Saliva","uk481F67",57.45,"Male","Past","Illumina_450","R02C02","101130760050","rawdata/101130760050_R02C02","passedQC",7.04339263776349
+"uk35C650_blood","Webster",2,NA,"PGP_UK","F03","Blood","uk35C650",59.67,"Male","Past","Illumina_450","R04C02","101130760050","rawdata/101130760050_R04C02","passedQC",-1.60092756075582
+"uk2E2AAE_blood","Webster",2,NA,"PGP_UK","G03","Blood","uk2E2AAE",56.49,"Female","Never","Illumina_450","R05C02","101130760050","rawdata/101130760050_R05C02","passedQC",-2.00414618142958
+"uk740176_blood","Webster",2,NA,"PGP_UK","H03","Blood","uk740176",47.94,"Female","Never","Illumina_450","R06C02","101130760050","rawdata/101130760050_R06C02","passedQC",-4.31990549131472
+"ukE3E2DF_saliva","Berner",NA,NA,"PGP_UK","A01","Saliva","ukE3E2DF",32.83,"Male","Never","Illumina_450","R01C01","200069280184","rawdata/200069280184_R01C01","passedQC",2.80169345596718
+"ukE3E2DF_blood","Berner",NA,NA,"PGP_UK","B01","Blood","ukE3E2DF",32.83,"Male","Never","Illumina_450","R02C01","200069280184","rawdata/200069280184_R02C01","passedQC",-4.02450976449718
+"uk5053C8_saliva","Berner",NA,NA,"PGP_UK","C01","Saliva","uk5053C8",23.98,"Female","Never","Illumina_450","R03C01","200069280184","rawdata/200069280184_R03C01","passedQC",-7.05529360187366
+"uk5053C8_blood","Berner",NA,NA,"PGP_UK","D01","Blood","uk5053C8",24.04,"Female ","Never ","Illumina_450","R04C01","200069280184","rawdata/200069280184_R04C01","passedQC",-11.0890448167943
+"uk4CA868_saliva","Berner",NA,NA,"PGP_UK","E01","Saliva","uk4CA868",57.03,"Male","Past","Illumina_450","R05C01","200069280184","rawdata/200069280184_R05C01","passedQC",3.86086994855771
+"uk6D0CFA_saliva","Berner",NA,NA,"PGP_UK","F01","Saliva","uk6D0CFA",39.77,"Male","Past","Illumina_450","R06C01","200069280184","rawdata/200069280184_R06C01","passedQC",-2.53897178954107
