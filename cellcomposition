@@ -1,0 +1,2 @@
+Minfi_cellcounts <- estimateCellCounts(RGset_all, compositeCellType = "Blood", processMethod = "auto", probeSelect = "auto", cellTypes = c("Bcell", "CD4T", "CD8T", "Eos", "Gran", "Mono", "Neu", "NK"), referencePlatform = c("IlluminaHumanMethylation450k"),
+returnAll = FALSE, meanPlot = FALSE, verbose = TRUE)
