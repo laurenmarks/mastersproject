@@ -1,12 +1,14 @@
-Minfi_cellcounts <- estimateCellCounts(RGset_all, compositeCellType = "Blood", processMethod = "auto", probeSelect = "auto", cellTypes = c("Bcell", "CD4T", "CD8T", "Eos", "Gran", "Mono", "Neu", "NK"), referencePlatform = c("IlluminaHumanMethylation450k"),
-returnAll = FALSE, meanPlot = FALSE, verbose = TRUE)
-#error found in minfi, used alternative code
+setwd(basedir)
+sheet_all <- read.metharray.sheet("rawdata", pattern = "csv$")
+RGset_all <- read.metharray.exp(targets = sheet_all)
+colnames(RGset_all) <- sheet_all$Sample_Name
+pd_all <- pData(RGset_all)
 
 if(require(FlowSorted.Blood.450k)) {
 wh.WBC <- which(FlowSorted.Blood.450k$CellType == "WBC")
 wh.PBMC <- which(FlowSorted.Blood.450k$CellType == "PBMC")
-RGset <- FlowSorted.Blood.450k[, c(wh.WBC, wh.PBMC)]
-sampleNames(RGset) <- paste(RGset$CellType,
+RGset_all <- FlowSorted.Blood.450k[, c(wh.WBC, wh.PBMC)]
+sampleNames(RGset_all) <- paste(RGset$CellType,
 c(seq(along = wh.WBC), seq(along = wh.PBMC)), sep = "_")
 counts <- estimateCellCounts(RGset_all, compositeCellType = "Blood", cellTypes = c("CD8T", "CD4T", "NK", "Bcell", "Mono", "Gran"), meanPlot = FALSE)
 round(counts, 2)
