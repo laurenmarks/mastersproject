@@ -1,4 +1,16 @@
 setwd(basedir)
+
+source("https://bioconductor.org/biocLite.R")
+biocLite("minfi")
+biocLite("IlluminaHumanMethylation450kmanifest")
+biocLite("IlluminaHumanMethylation450kanno.ilmn12.hg19")
+biocLite("FlowSorted.Blood.450k")  #package installed into personal library 3.4
+
+library(minfi)
+library(IlluminaHumanMethylation450kmanifest)
+library(IlluminaHumanMethylation450kanno.ilmn12.hg19)
+library(FlowSorted.Blood.450k)
+
 sheet_all <- read.metharray.sheet("rawdata", pattern = "csv$")
 RGset_all <- read.metharray.exp(targets = sheet_all)
 colnames(RGset_all) <- sheet_all$Sample_Name
