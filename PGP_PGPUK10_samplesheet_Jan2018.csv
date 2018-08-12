@@ -1,0 +1,27 @@
+Sample_Name,Sample_Plate,Sample_Group,Pool_ID,Project,Sample_Well,Sentrix_ID,Sentrix_Position,Tissue,PGP_ID,Age,Gender,Smoking_status,Array_type
+uk85AA3B_saliva,Webster,1,,PGP_UK,A01,101130760049,R01C01,Saliva,uk85AA3B,50.59,Female,Never,Illumina_450
+uk481F67_blood,Webster,2,,PGP_UK,B01,101130760049,R02C01,Blood,uk481F67,57.45,Male,Past,Illumina_450
+uk35C650_saliva,Webster,1,,PGP_UK,C01,101130760049,R03C01,Saliva,uk35C650,59.67,Male,Past,Illumina_450
+uk174659_saliva,Webster,1,,PGP_UK,E01,101130760049,R05C01,Saliva,uk174659,33.65,Male,Never,Illumina_450
+uk0C72FF_blood,Webster,2,,PGP_UK,F01,101130760049,R06C01,Blood,uk0C72FF,64.7,Male,Past,Illumina_450
+uk85AA3B_blood,Webster,2,,PGP_UK,H01,101130760049,R02C02,Blood,uk85AA3B,50.59,Female,Never,Illumina_450
+uk2DF242_saliva,Webster,1,,PGP_UK,A02,101130760049,R03C02,Saliva,uk2DF242,48.93,Male,Never,Illumina_450
+uk33D02F_saliva,Webster,1,,PGP_UK,B02,101130760049,R04C02,Saliva,uk33D02F,44.57,Female,Never,Illumina_450
+uk33D02F_blood,Webster,2,,PGP_UK,C02,101130760049,R05C02,Blood,uk33D02F,44.57,Female,Never,Illumina_450
+uk2DF242_blood,Webster,2,,PGP_UK,D02,101130760049,R06C02,Blood,uk2DF242,48.93,Male,Never,Illumina_450
+uk0C72FF_saliva,Webster,1,,PGP_UK,E02,101130760050,R01C01,Saliva,uk0C72FF,64.7,Male,Past,Illumina_450
+uk1097F9_blood,Webster,2,,PGP_UK,F02,101130760050,R02C01,Blood,uk1097F9,50.97,Male,Never,Illumina_450
+uk2E2AAE_saliva,Webster,1,,PGP_UK,G02,101130760050,R03C01,Saliva,uk2E2AAE,56.49,Female,Never,Illumina_450
+uk174659_blood,Webster,2,,PGP_UK,A03,101130760050,R05C01,Blood,uk174659,33.65,Male,Never,Illumina_450
+uk740176_saliva,Webster,1,,PGP_UK,B03,101130760050,R06C01,Saliva,uk740176,47.94,Female,Never,Illumina_450
+uk1097F9_saliva,Webster,1,,PGP_UK,C03,101130760050,R01C02,Saliva,uk1097F9,50.97,Male,Never,Illumina_450
+uk481F67_saliva,Webster,1,,PGP_UK,D03,101130760050,R02C02,Saliva,uk481F67,57.45,Male,Past,Illumina_450
+uk35C650_blood,Webster,2,,PGP_UK,F03,101130760050,R04C02,Blood,uk35C650,59.67,Male,Past,Illumina_450
+uk2E2AAE_blood,Webster,2,,PGP_UK,G03,101130760050,R05C02,Blood,uk2E2AAE,56.49,Female,Never,Illumina_450
+uk740176_blood,Webster,2,,PGP_UK,H03,101130760050,R06C02,Blood,uk740176,47.94,Female,Never,Illumina_450
+ukE3E2DF_saliva,Berner,,,PGP_UK,A01,200069280184,R01C01,Saliva,ukE3E2DF,32.83,Male,Never,Illumina_450
+ukE3E2DF_blood,Berner,,,PGP_UK,B01,200069280184,R02C01,Blood,ukE3E2DF,32.83,Male,Never,Illumina_450
+uk5053C8_saliva,Berner,,,PGP_UK,C01,200069280184,R03C01,Saliva,uk5053C8,23.98,Female,Never,Illumina_450
+uk5053C8_blood,Berner,,,PGP_UK,D01,200069280184,R04C01,Blood,uk5053C8,24.04,Female ,Never ,Illumina_450
+uk4CA868_saliva,Berner,,,PGP_UK,E01,200069280184,R05C01,Saliva,uk4CA868,57.03,Male,Past,Illumina_450
+uk6D0CFA_saliva,Berner,,,PGP_UK,F01,200069280184,R06C01,Saliva,uk6D0CFA,39.77,Male,Past,Illumina_450
